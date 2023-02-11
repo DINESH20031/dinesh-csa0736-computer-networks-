@@ -1,0 +1,4 @@
+from itertools import permutations
+a=permutations ([2,8,9,10],)
+for i in a:
+    print(i)
